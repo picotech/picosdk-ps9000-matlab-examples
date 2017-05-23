@@ -8,7 +8,7 @@ The examples consist of MATLAB code which will display a GUI when run. A brief g
 ### Prerequisites
 
 * [MATLAB](https://uk.mathworks.com/products/matlab.html) for Microsoft Windows (32- or 64-bit).
-* PicoScope9200 or PicoSample software (see [Installing software](https://github.com/picotech/picosdk-ps9000-matlab-examples/#installing-software))
+* PicoScope 9200 or PicoSample software (see [Installing software](https://github.com/picotech/picosdk-ps9000-matlab-examples/#installing-software))
 
 **Notes:**
 
