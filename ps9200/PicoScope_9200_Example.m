@@ -6,7 +6,7 @@
 %       This example shows how to call some basic commands and how we can
 %       call a string of commands to get data.
 %
-% Copyright: © Pico Technology Limited 2014 - 2017. All rights reserved.
+% Copyright: © Pico Technology Ltd. See LICENSE File for terms.
 
 function varargout = PicoScope_9200_Example(varargin)
     
